@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715177629267,
+      "tag": "0000_create_movies",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715180118896,
+      "tag": "0001_add_timestamps_to_movies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1716389626511,
+      "tag": "0002_create_users",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1716391041964,
+      "tag": "0003_create_likes",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1717602875137,
+      "tag": "0004_add_salt",
+      "breakpoints": true
+    }
+  ]
+}
