@@ -94,7 +94,7 @@ export class UsersController {
         errors: parsed.error.errors,
       });
     }
-console.log(parsed.data)
+//console.log(parsed.data)
     await this.usersService.register({ email: parsed.data.email, password: parsed.data.password });
 
     res.status(201).json({
